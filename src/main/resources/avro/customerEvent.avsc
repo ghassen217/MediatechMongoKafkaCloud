@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "requestType",
+      "type": {
+        "type": "enum",
+        "name": "RequestType",
+        "symbols": [
+          "CREATED",
+          "UPDATED",
+          "DELETED"
+        ]
+      }
+    },
+    {
+      "name": "firstname",
+      "type": "string"
+    },
+    {
+      "name": "lastname",
+      "type": "string"
+    },
+    {
+      "name": "phone",
+      "type": "string"
+    }
+  ],
+  "name": "CustomerEvent",
+  "namespace": "com.training.mediatech.mediatechMongo",
+  "type": "record"
+}

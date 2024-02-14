@@ -1,0 +1,7 @@
+=== Confluent Cloud API key: lsrc-d1pyn1 ===
+
+API key:
+G6WD2TGXH6J25IAZ
+
+API secret:
+UaZQDodPs2LSiTWPCWviG+UOr2ZuJPI0tZt82wQnjp3a/k/QA06qGSF+0+hMl4VH
